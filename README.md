@@ -12,9 +12,7 @@ TestNG for Eclipse Plugin
 <a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1549" class="drag" title="Drag to your running Eclipse workspace."><img class="img-responsive" src="https://marketplace.eclipse.org/sites/all/themes/solstice/public/images/marketplace/btn-install.png" alt="Drag to your running Eclipse workspace." /></a>
 
 see more at http://testng.org/doc/download.html
-
-### Install Snapshot
-
+Hello
 The update site to install snapshot versions of the TestNG Eclipse plug-in is:
 
 `http://beust.com/eclipse-beta`
