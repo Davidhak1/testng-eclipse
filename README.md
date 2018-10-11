@@ -1,3 +1,4 @@
+RECYCLE
 TestNG for Eclipse Plugin
 ====
 
